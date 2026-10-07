@@ -34,11 +34,13 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- 3D Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsilbekQahramonov&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
-</p>
 
 ---
 

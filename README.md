@@ -124,14 +124,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Asilbek-qahramonov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilbek-qahramonov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 

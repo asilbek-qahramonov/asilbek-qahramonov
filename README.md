@@ -86,44 +86,6 @@
 
 ---
 
-## 🐍 A Little About My Coding Journey
-
-```python
-class Asilbek:
-    def __init__(self):
-        self.name = "Asilbek Qahramonov"
-        self.location = "Uzbekistan"
-        self.role = "Frontend Developer"
-
-        self.frontend = [
-            "HTML", "CSS", "JavaScript",
-            "TypeScript", "React",
-            "Tailwind CSS", "Bootstrap"
-        ]
-
-        self.backend = [
-            "Python", "Java",
-            "PostgreSQL", "REST APIs"
-        ]
-
-        self.other_skills = [
-            "Telegram Bots",
-            "Mobile Development",
-            "Git & GitHub",
-            "Figma", "UI/UX Design"
-        ]
-
-        self.goal = "Build meaningful digital products"
-
-    def say_hi(self):
-        print("Keep learning. Keep building. Keep growing!")
-
-me = Asilbek()
-me.say_hi()
-```
-
----
-
 
 ## 🤝 Let's Connect
 

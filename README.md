@@ -17,22 +17,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-Hi! I'm **Asilbek Qahramonov**, a developer from Uzbekistan passionate about building modern, responsive, and visually appealing digital experiences.
-
-- 🎨 Focused on modern UI/UX and responsive web design.
-- ⚛️ Building interactive web applications with React and TypeScript.
-- 🐍 Exploring Python, Telegram bot development, and automation.
-- ☕ Learning Java and backend development.
-- 🗄️ Working with PostgreSQL and relational databases.
-- 📱 Interested in mobile application development.
-- 🎬 Exploring animations, 3D web experiences, and creative interfaces.
-- 🚀 Always learning new technologies and turning ideas into real projects.
-
-**My goal:** Build useful, high-quality digital products with clean interfaces and great user experiences.
-
----
 
 ## 💻 Tech Stack
 
